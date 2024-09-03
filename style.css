@@ -8,3 +8,10 @@ body {
   justify-content: center;
   background-color: #111;
 }
+
+.git {
+  width: 150px;
+  height: 150px;
+  background-color: #f95933;
+  border-radius: 15px;
+}
