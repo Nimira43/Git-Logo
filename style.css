@@ -21,7 +21,7 @@ body {
   background-color: var(--main);
   border-radius: 15px;
   position: relative;
-  transform: rotate(45deg);
+  rotate: 45deg;
 }
 
 .line-1,
@@ -60,7 +60,7 @@ body {
   width: 90px;
   top: 70px;
   left: 30px;
-  transform: rotate(45deg)
+  rotate: 45deg;
 }
 
 .line-2:before {
